@@ -3,8 +3,8 @@
 #include "Soldier.hpp"
 
 class Sniper : public Soldier{
-public:
 
+public:
 
     Sniper(int num_player) : Soldier(100,num_player,50,100){}
 
